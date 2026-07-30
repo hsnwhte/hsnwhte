@@ -1,4 +1,4 @@
-## hsnwhte— Backend Developer, Data Pipelines & Integration
+## Backend Developer, Data Pipelines & Integration
 
 10+ years in industrial operations (manufacturing planning, quality
 management ISO9001/AS9100, ERP implementation) — now building backend
