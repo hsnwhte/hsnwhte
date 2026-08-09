@@ -4,7 +4,7 @@
 management systems (ISO 9001 / AS9100), and ERP implementation — now
 working full-time as a Python backend developer.
 
-🔧 Currently building: [Fluxus](your-repo-link) — a generic, plugin-based
+🔧 Currently building: [Pluggle](your-repo-link) — a generic, plugin-based
 ETL/sync engine. Strategy-pattern architecture, protocol-based storage,
 CLI tooling, 34+ automated tests.
 
