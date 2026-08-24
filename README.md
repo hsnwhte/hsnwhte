@@ -6,7 +6,7 @@ working full-time as a Python backend developer.
 
 🔧 Currently building: [Pluggle](https://github.com/hsnwhte/pluggle) — a generic, plugin-based
 ETL/sync engine. Strategy-pattern architecture, protocol-based storage,
-CLI tooling, 34+ automated tests.
+CLI tooling.
 
 What I focus on:
 
