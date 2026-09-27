@@ -6,7 +6,7 @@ working full-time as a Python backend developer.
 
 **Featured projects**
 
-- **miyerp** *(in production)* — a server-rendered Django ERP for small wholesale
+- **MIYERP** *(in production)* — a server-rendered Django ERP for small wholesale
   businesses. Weighted-average inventory costing with foreign-currency support,
   immutable records with linked corrections, permission-based access control,
   financial reporting, and ~320 automated tests. Source is private.
